@@ -1,0 +1,5 @@
+Properties:
+  urlbase: https://reqres.in/
+  endpoint:
+    login: api/login
+    create: api/users
